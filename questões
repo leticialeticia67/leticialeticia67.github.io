@@ -1,0 +1,16 @@
+1.qual a diferença entre <b> e <p>?
+O erro na linha de código é a sintaxe
+incorreta das tags HTML. A tag <centrer> não é uma tag HTML válida, e há uma inconsistência na forma como as tags de parágrafo <p> e </p> estão sendo fechadas. O código correto deve ser: Html
+<center> texto </center>
+
+2.qual o erro na linha de código: <p<center> texto </p<center>?
+
+‹b>: Formata texto em negrito, inline, sem valor semântico especial.
+• <p›: Define parágrafos, block-level,
+com valor semântico para a estrutura
+do texto.
+
+3. ⁠qual a função da tag <a href>? 
+
+a tag <a href> é
+fundamental para a navegação na web, permitindo a criação de links para outros recursos.
